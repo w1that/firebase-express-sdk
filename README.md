@@ -1,4 +1,7 @@
-# Firebase Express SDK
+# Firebase Express SDK 
+
+[![https://nodei.co/npm/firebase-express-sdk.png?downloads=true&downloadRank=true&stars=true](https://nodei.co/npm/firebase-express-sdk.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/firebase-express-sdk)
+
 
 Simplify interaction with Firebase Firestore by using this SDK to easily set up and manage CRUD operations for collections, handle API endpoints, and streamline data retrieval and manipulation in your Express.js projects.
 
