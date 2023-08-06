@@ -75,7 +75,7 @@ const express = require("express");
 const cors = require("cors");
 const bodyParser = require("body-parser");
 const { FirebaseExpressSdk } = require("firebase-express-sdk");
-const serviceAccount = require("./serviceAccount.json");
+const serviceAccountFile = require("./serviceAccount.json");
 
 const app = express();
 const port = 3001;
@@ -91,7 +91,7 @@ const collections = {
 
 const firebaseExpressSdk = new FirebaseExpressSdk({
   app, // Express app
-  serviceAccount, // Firebase service account
+  serviceAccountFile, // Firebase service account file
   collections, // Collections to expose,
   port, // Port to listen to (default: 3000)
 });
