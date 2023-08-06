@@ -1,0 +1,23 @@
+{
+  "name": "firebase-express-sdk",
+  "version": "1.0.0",
+  "description": "A Firebase Firestore helper SDK for Express.js applications. Simplify interaction with Firebase Firestore by using this SDK to easily set up and manage CRUD operations for collections, handle API endpoints, and streamline data retrieval and manipulation in your Express.js projects.",
+  "main": "./lib/firebaseExpressSdk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/w1that/firebase-express-sdk.git"
+  },
+  "keywords": [],
+  "author": "@w1that",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/w1that/firebase-express-sdk/issues"
+  },
+  "homepage": "https://firebase-express-sdk.vercel.app/docs/intro",
+  "dependencies": {
+    "firebase-admin": "^11.10.1"
+  }
+}
