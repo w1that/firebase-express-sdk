@@ -2,7 +2,7 @@
 
 Simplify interaction with Firebase Firestore by using this SDK to easily set up and manage CRUD operations for collections, handle API endpoints, and streamline data retrieval and manipulation in your Express.js projects.
 
-![Uygulama Ekran Görüntüsü](https://i.ibb.co/cXMrpJ1/hero-image.png)
+![Uygulama Ekran Görüntüsü](https://i.ibb.co/dckKhNG/hero-image-2-2.png)
 
 
 ## Quick Start
